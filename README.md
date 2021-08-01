@@ -9,7 +9,7 @@
 
 
 
-Other than GitHub, I have a few open source notebooks on [Observable](https://observablehq.com/@jparklev?tab=notebooks): notably, [Spell Tracing](https://observablehq.com/@jparklev/maker-spell-tracing), [Multicall Provider](https://observablehq.com/@jparklev/multicall-provider), & [MKR Voter Visual](https://observablehq.com/@jparklev/mkr-voter-visualization).
+Other than GitHub, I have a few OS code notebooks on [Observable](https://observablehq.com/@jparklev?tab=notebooks): notably, [Spell Tracing](https://observablehq.com/@jparklev/maker-spell-tracing), [Multicall Provider](https://observablehq.com/@jparklev/multicall-provider), & [MKR Voter Visual](https://observablehq.com/@jparklev/mkr-voter-visualization).
 
 
 
